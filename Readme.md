@@ -75,4 +75,4 @@ FILE="./image/1.jpg"
 - **Max wallets: 20** (change `DISTRIBUTION_WALLETNUM` if needed).
 
 ## **Contact me**
-Telegram: topsecretagent007[https://t.me/topsecretagent_007]
+Telegram: lorine93s[https://t.me/lorine93s]
